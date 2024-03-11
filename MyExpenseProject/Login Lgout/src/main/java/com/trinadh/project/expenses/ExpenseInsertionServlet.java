@@ -1,4 +1,4 @@
-package com.trinadh.project.expenses;
+package com.yashu.project.expenses;
 
 import java.io.IOException;
 import java.sql.Connection;
