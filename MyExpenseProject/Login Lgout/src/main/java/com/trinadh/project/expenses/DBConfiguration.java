@@ -1,4 +1,4 @@
-package com.trinadh.project.expenses;
+package com.yashu.project.expenses;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
